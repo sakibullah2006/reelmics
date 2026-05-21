@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p /home/sakib/dev/web/reelmics/product)"
+    ],
+    "additionalDirectories": [
+      "/home/sakib/dev/web/reelmics"
+    ]
+  }
+}
