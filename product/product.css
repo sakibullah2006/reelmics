@@ -1,0 +1,14 @@
+/* product.css — component-level overrides only */
+
+.component-product-configurator { margin-top: 0; }
+
+.card-container {
+  border: none !important;
+  padding: 0 !important;
+  box-shadow: none !important;
+  background: transparent !important;
+}
+
+.button__width { width: 100%; }
+.clearall { clear: both; display: block; height: 0; }
+.switch-buttons { width: 100%; }
